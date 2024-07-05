@@ -1,0 +1,6 @@
+name: uwu-Upgrades
+version: '${project.version}'
+main: uwubak.uwuupgrades.Uwu_Upgrades
+api-version: '1.18'
+commands:
+  ulepszanie:

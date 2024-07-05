@@ -1,0 +1,33 @@
+gui:
+  items:
+    custom-name:
+      material: STONE
+      display-name: ''
+      slot: 0
+      animation: true
+      animations:
+        items:
+          0:
+            material: STONE
+            display-name: ''
+          1:
+            material: DIRT
+            display-name: ''
+          2:
+            material: TNT
+            display-name: ''
+      upgrade: true
+      upgrades:
+        items-in:
+          0:
+            material: NETHERITE_LEGGINGS
+            display-name: ''
+          1:
+            material: NETHERITE_BOOTS
+            display-name: ''
+        items-out:
+          material: NETHERITE_CHESTPLATE
+          display-name: '&cAnarchiczna klata'
+
+#delay pomiedzy itemami podawaj w tickach (20 = 1 tick)
+animation-delay: 20
